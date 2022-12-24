@@ -1,20 +1,86 @@
-.htaccess
-/config.php
-admin/config.php
+dist
+*egg*
+*.pyc
+*.so
+*.ipynb_checkpoints
+*~
+*.swp
+*.mat
+*.swo
+*.html
+*.c
 
-!index.html
+dms.c
+dms.html
+utils.c
+utils.html
+solvers.html
+solvers.html
 
-download/
-image/data/
-image/cache/
-system/cache/
-system/logs/
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
 
-system/storage/
+*.dvi
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
+build/
 
-# vQmod log files
-vqmod/logs/*
-# vQmod cache files
-vqmod/vqcache/*
-vqmod/checked.cache
-vqmod/mods.cache
+## Build tool auxiliary files:
+*.fdb_latexmk
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+
+*.alg
+*.loa
+
+# amsthm
+*.thm
+
+# beamer
+*.nav
+*.snm
+*.vrb
+
+
+# hyperref
+*.brf
+
+
+# makeidx
+*.idx
+*.ilg
+*.ind
+*.ist
+
+# minitoc
+*.maf
+*.mtc
+*.mtc0
+
+*.pyg
+
+
+# sagetex
+*.sagetex.sage
+*.sagetex.py
+*.sagetex.scmd
+
+
+*.tdo
+*.vtk
+*.vtu
+*.pvsm
+*.npz
+*.pvd
+build/ 
+.DS_Store

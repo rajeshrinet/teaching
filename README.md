@@ -1,4 +1,7 @@
-# Classical mechanics
-Numerical simulations of model systems in classical mechanics. Examples include
+# Classical mechanics 
 
-* [Detereministic chaos in the double pendulum problem](https://nbviewer.org/github/rajeshrinet/classical-mechanics/blob/main/ex4-pendulums.ipynb)
+Lecture notes and other resources in classical mechanics. 
+
+The resources are meant to supplement the teaching in a classroom. 
+The material covered here borrows heavily from standard classical mechanics textbooks. 
+

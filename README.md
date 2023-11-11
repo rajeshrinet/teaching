@@ -1,7 +1,5 @@
-# Classical mechanics 
+This repository contain resources related to courses taught by me. These include:
 
-Lecture notes and other resources in classical mechanics. 
-
-The resources are meant to supplement the teaching in a classroom. 
-The material covered here borrows heavily from standard classical mechanics textbooks. 
-
+* lecture notes
+* code to plot some useful figures 
+* code to simulate model system

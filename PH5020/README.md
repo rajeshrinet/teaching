@@ -1,4 +1,4 @@
-## Electromagnetic Theory
+## PH5020 Electromagnetic Theory 
 * Electrostatics
 * Magnetostatics
 * Electrodynamics
@@ -7,7 +7,5 @@
 
 ### Textbooks
 
-* JD Jackson, Classical Electrodynamics, Wiley Eastern, 2nd Edition (1975)
-* 
-* DJ Griffiths, Introduction to Electrodynamics, Prentice Hall of India, 2nd Edition, (1989)
-
+* David J. Griffiths. Introduction to Electrodynamics, Prentice Hall of India, 4th Edition (2017). 
+* JD Jackson. Classical Electrodynamics. 3rd Edition (2001)

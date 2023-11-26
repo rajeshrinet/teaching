@@ -1,5 +1,5 @@
-This repository contain resources related to courses taught by me. These include:
+This repository contains supplemental resources to my lectures. These include:
 
-* lecture notes
-* code to plot some useful figures 
-* code to simulate model system
+* lecture notes                          
+* code to plot pedagogical figures
+* code to simulate model systems

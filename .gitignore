@@ -1,7 +1,9 @@
 dist
 *egg*
 *.pyc
-*.so
+*.so 
+.virtual_documents/*
+*/.virtual_documents
 *.ipynb_checkpoints
 *~
 *.swp
